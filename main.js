@@ -1,0 +1,1 @@
+document.getElementById('document-title').innerHTML = 'Coding stock'

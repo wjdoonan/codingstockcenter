@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134.92 94.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3363ae;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 72px;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="134.92" height="94.71"/>
+  <text class="cls-1" transform="translate(12.2 72.91)"><tspan x="0" y="0">&lt;/&gt;</tspan></text>
+</svg>
