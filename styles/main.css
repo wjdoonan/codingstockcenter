@@ -22,21 +22,30 @@ button {
     text-decoration: none;
 }
 
+.a:hover {
+    text-decoration: underline;
+}
+
 .mainTitle {
     text-align: center;
-    width: fit-content;
-    margin: 14px;
+    margin-top: 3%;
 }
 
 .contentBox {
-    width: 35.5%;
+    width: 34%;
     text-align: center;
-    border: 1px white;
+    border: 5px rgb(126, 88, 185) solid;
     background-color: rgb(255, 255, 255);
     margin: 5%;
     border-radius: 12px;
     padding: 2%;
     display: inline-block;
+}
+
+@media (min-width:900px) {
+    .contentBox {
+        width: 18.5%;
+    }
 }
 
 .contentBoxTitle {
