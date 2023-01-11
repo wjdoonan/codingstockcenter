@@ -31,6 +31,10 @@ button {
     margin-top: 3%;
 }
 
+.content {
+    text-align: center;
+}
+
 .contentBox {
     width: 34%;
     text-align: center;
