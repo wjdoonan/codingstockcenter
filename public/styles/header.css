@@ -1,0 +1,19 @@
+/* header attributes */
+
+.header {
+    background-color: rgb(32, 31, 39);
+    padding: 3%;
+}
+
+.headerTitle {
+    display: inline;
+    width: fit-content;
+    margin: 10% 10%;
+}
+
+.headerContent {
+    float: right;
+    margin: 1% 10%;
+    width: fit-content;
+    height: fit-content;
+}
